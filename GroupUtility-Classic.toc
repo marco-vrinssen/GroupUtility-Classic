@@ -1,0 +1,7 @@
+## Interface: 11504
+## Title: GroupUtility Classic
+## Notes: Quick group management commands for ready checks, role polls, leaving groups, and marking party members for World of Warcraft Classic
+## Author: MIYANKO
+## Version: 1.0.0
+
+Group.lua
